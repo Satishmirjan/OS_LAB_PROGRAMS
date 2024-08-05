@@ -1,0 +1,64 @@
+00:00:00.004312 main     VirtualBox COM Server 7.0.20 r163906 win.amd64 (Jul 10 2024 14:54:08) release log
+00:00:00.004314 main     Log opened 2024-08-05T13:16:50.605239600Z
+00:00:00.004315 main     Build Type: release
+00:00:00.004324 main     OS Product: Windows 11
+00:00:00.004324 main     OS Release: 10.0.22631
+00:00:00.004325 main     OS Service Pack: 
+00:00:00.040392 main     DMI Product Name: HP Pavilion Laptop 15-eg2xxx
+00:00:00.056052 main     DMI Product Version:  
+00:00:00.056095 main     Firmware type: UEFI
+00:00:00.056734 main     Secure Boot: Enabled
+00:00:00.056771 main     Host RAM: 16052MB (15.6GB) total, 3428MB (3.3GB) available
+00:00:00.056778 main     Executable: C:\Program Files\Oracle\VirtualBox\VBoxSVC.exe
+00:00:00.056778 main     Process ID: 26052
+00:00:00.056779 main     Package type: WINDOWS_64BITS_GENERIC
+00:00:00.195181          VirtualBox: object creation starts
+00:00:00.195507          Home directory: 'C:\Users\Satish\.VirtualBox'
+00:00:00.195628          Installed Drivers:
+00:00:00.210400            C:\WINDOWS\system32\DRIVERS\VBoxSup.sys (Version: 7.0.20.13906)
+00:00:00.210750            C:\WINDOWS\system32\DRIVERS\VBoxUSBMon.sys (Version: 7.0.20.13906)
+00:00:00.210986            C:\WINDOWS\system32\DRIVERS\VBoxNetAdp6.sys (Version: 7.0.20.13906)
+00:00:00.211238            C:\WINDOWS\system32\DRIVERS\VBoxNetLwf.sys (Version: 7.0.20.13906)
+00:00:00.214485          usbLibGetDevices: Starting USB device enumeration
+00:00:00.245192          Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&2cbeacf0&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 3
+00:00:00.245240          Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&2cbeacf0&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 7
+00:00:00.250478          usbLibGetDevices: Found 5 USB devices, 0 captured
+00:00:00.250631          USB: Unknown USB device detected (idVendor: 0x0408, idProduct: 0x5477)
+00:00:00.250657          USB: Unknown USB device detected (idVendor: 0x04f3, idProduct: 0x0c00)
+00:00:00.279964          netIfIsWireless: CreateFile on '\\.\{E4086792-AF01-426D-B398-11861BD21651}' failed with rcWin=2 (0x2) - ignoring
+00:00:00.284681          HostDnsMonitor: initializing
+00:00:00.296942          HostDnsMonitor: updating information
+00:00:00.296988          HostDnsMonitor: old information
+00:00:00.296988            no server entries
+00:00:00.296989            no domain set
+00:00:00.296989            no search string entries
+00:00:00.296990          HostDnsMonitor: new information
+00:00:00.296990            server 1: 8.8.8.8
+00:00:00.296991            server 2: 118.151.209.5
+00:00:00.296992            server 3: 150.129.63.9
+00:00:00.296992            no domain set
+00:00:00.296992            no search string entries
+00:00:00.309528          VD: VDInit finished with VINF_SUCCESS
+00:00:00.310859          VirtualBox: object created
+00:00:00.373534          Saving settings file "C:\Users\Satish\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:00.376131          Finished saving settings file "C:\Users\Satish\.VirtualBox\VirtualBox.xml"
+00:00:00.376288          Saving settings file "C:\Users\Satish\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:00.378674          Finished saving settings file "C:\Users\Satish\.VirtualBox\VirtualBox.xml"
+00:00:00.378809          Saving settings file "C:\Users\Satish\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:00.381995          Finished saving settings file "C:\Users\Satish\.VirtualBox\VirtualBox.xml"
+00:00:00.736287          Saving settings file "C:\Users\Satish\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:00.739677          Finished saving settings file "C:\Users\Satish\.VirtualBox\VirtualBox.xml"
+00:00:01.792621          Saving settings file "C:\Users\Satish\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:01.794975          Finished saving settings file "C:\Users\Satish\.VirtualBox\VirtualBox.xml"
+00:00:02.325897          Saving settings file "C:\Users\Satish\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:02.329574          Finished saving settings file "C:\Users\Satish\.VirtualBox\VirtualBox.xml"
+00:00:05.602885          Saving settings file "C:\Users\Satish\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:05.605685          Finished saving settings file "C:\Users\Satish\.VirtualBox\VirtualBox.xml"
+00:00:41.242312          Saving settings file "C:\Users\Satish\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:41.244548          Finished saving settings file "C:\Users\Satish\.VirtualBox\VirtualBox.xml"
+00:00:42.782688          Saving settings file "C:\Users\Satish\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:42.786099          Finished saving settings file "C:\Users\Satish\.VirtualBox\VirtualBox.xml"
+00:00:43.391889          Saving settings file "C:\Users\Satish\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:43.416386          Finished saving settings file "C:\Users\Satish\.VirtualBox\VirtualBox.xml"
+00:00:44.571651          Saving settings file "C:\Users\Satish\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:44.595072          Finished saving settings file "C:\Users\Satish\.VirtualBox\VirtualBox.xml"
